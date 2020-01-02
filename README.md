@@ -1,2 +1,2 @@
-# CUDA_C
+# CUDA-C
 CUDA C Programming
